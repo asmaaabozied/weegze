@@ -1,0 +1,84 @@
+[25-Aug-2021 13:12:53 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:53 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:53 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:53 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:12:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/public/index.php:24
+Stack trace:
+#0 /home/minaret/public_html/weeze/index.php(21): require_once()
+#1 {main}
+  thrown in /home/minaret/public_html/weeze/public/index.php on line 24
+[25-Aug-2021 13:13:03 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
+[25-Aug-2021 13:13:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/minaret/public_html/weeze/vendor/composer/autoload_real.php(61): composerRequire5fc04da05bfb3ca2bad53238abc5d433('a0edc8309cc5e1d...', '/home/minaret/p...')
+#1 /home/minaret/public_html/weeze/vendor/autoload.php(7): ComposerAutoloaderInit5fc04da05bfb3ca2bad53238abc5d433::getLoader()
+#2 /home/minaret/public_html/weeze/public/index.php(24): require('/home/minaret/p...')
+#3 /home/minaret/public_html/weeze/index.php(21): require_once('/home/minaret/p...')
+#4 {main}
+  thrown in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
+[25-Aug-2021 13:13:03 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
+[25-Aug-2021 13:13:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/minaret/public_html/weeze/vendor/composer/autoload_real.php(61): composerRequire5fc04da05bfb3ca2bad53238abc5d433('a0edc8309cc5e1d...', '/home/minaret/p...')
+#1 /home/minaret/public_html/weeze/vendor/autoload.php(7): ComposerAutoloaderInit5fc04da05bfb3ca2bad53238abc5d433::getLoader()
+#2 /home/minaret/public_html/weeze/public/index.php(24): require('/home/minaret/p...')
+#3 /home/minaret/public_html/weeze/index.php(21): require_once('/home/minaret/p...')
+#4 {main}
+  thrown in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
+[25-Aug-2021 13:13:03 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
+[25-Aug-2021 13:13:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/minaret/public_html/weeze/vendor/composer/autoload_real.php(61): composerRequire5fc04da05bfb3ca2bad53238abc5d433('a0edc8309cc5e1d...', '/home/minaret/p...')
+#1 /home/minaret/public_html/weeze/vendor/autoload.php(7): ComposerAutoloaderInit5fc04da05bfb3ca2bad53238abc5d433::getLoader()
+#2 /home/minaret/public_html/weeze/public/index.php(24): require('/home/minaret/p...')
+#3 /home/minaret/public_html/weeze/index.php(21): require_once('/home/minaret/p...')
+#4 {main}
+  thrown in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
+[25-Aug-2021 13:13:03 UTC] PHP Warning:  require(/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php): Failed to open stream: No such file or directory in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
+[25-Aug-2021 13:13:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/minaret/public_html/weeze/vendor/composer/../guzzlehttp/psr7/src/functions_include.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/minaret/public_html/weeze/vendor/composer/autoload_real.php(61): composerRequire5fc04da05bfb3ca2bad53238abc5d433('a0edc8309cc5e1d...', '/home/minaret/p...')
+#1 /home/minaret/public_html/weeze/vendor/autoload.php(7): ComposerAutoloaderInit5fc04da05bfb3ca2bad53238abc5d433::getLoader()
+#2 /home/minaret/public_html/weeze/public/index.php(24): require('/home/minaret/p...')
+#3 /home/minaret/public_html/weeze/index.php(21): require_once('/home/minaret/p...')
+#4 {main}
+  thrown in /home/minaret/public_html/weeze/vendor/composer/autoload_real.php on line 71
